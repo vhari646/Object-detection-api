@@ -145,6 +145,7 @@ To run any of the scripts, type “idle” in the Anaconda Command Prompt (with 
 
 If everything is working properly, the object detector will initialize for about 10 seconds and then display a window showing any objects it’s detected in the image!
 
+```
 ## RCNN Structure
 ![1](https://user-images.githubusercontent.com/39281308/56233187-d9f15e80-6082-11e9-9782-c8ec30e6c09c.PNG)
 
