@@ -171,11 +171,10 @@ If everything is working properly, the object detector will initialize for about
 
 ![9](https://user-images.githubusercontent.com/39281308/56233198-dbbb2200-6082-11e9-8129-33110c5dd700.PNG)
 
+
 Credits - Evan EdjeElectronics - edje.electronics@gmail.com
 Licenses - # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
