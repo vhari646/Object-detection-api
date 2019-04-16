@@ -145,6 +145,31 @@ To run any of the scripts, type “idle” in the Anaconda Command Prompt (with 
 
 If everything is working properly, the object detector will initialize for about 10 seconds and then display a window showing any objects it’s detected in the image!
 
+## RCNN Structure
+![1](https://user-images.githubusercontent.com/39281308/56233187-d9f15e80-6082-11e9-9782-c8ec30e6c09c.PNG)
+
+## Generating Training Data
+![2](https://user-images.githubusercontent.com/39281308/56233188-da89f500-6082-11e9-89e8-968332157571.PNG)
+
+## Creating Label Map
+![3](https://user-images.githubusercontent.com/39281308/56233189-da89f500-6082-11e9-82d2-5da3a64a3b2e.PNG)
+
+## Loss Graph for Faster-RCNN Inception v2 model
+![4](https://user-images.githubusercontent.com/39281308/56233191-da89f500-6082-11e9-9b05-e5af460fd592.PNG)
+
+## Loss Graph for Faster-RCNN Resnet model
+![5](https://user-images.githubusercontent.com/39281308/56233192-da89f500-6082-11e9-967b-3190ad355eca.PNG)
+
+## Implementation of the system
+![6](https://user-images.githubusercontent.com/39281308/56233194-da89f500-6082-11e9-9320-cabda2aa1be9.PNG)
+
+## Result
+![7](https://user-images.githubusercontent.com/39281308/56233195-db228b80-6082-11e9-9f8b-b1e0d5626e5f.PNG)
+
+![8](https://user-images.githubusercontent.com/39281308/56233197-dbbb2200-6082-11e9-9db1-d61cb8c68840.PNG)
+
+![9](https://user-images.githubusercontent.com/39281308/56233198-dbbb2200-6082-11e9-8129-33110c5dd700.PNG)
+
 Credits - Evan EdjeElectronics - edje.electronics@gmail.com
 Licenses - # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
 #
